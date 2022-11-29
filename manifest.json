@@ -1,11 +1,11 @@
 {
-    "name": "legion_mobile",
-    "short_name": "legion",
+    "name": "startup_namer",
+    "short_name": "startup_namer",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Legion Mobile App",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
